@@ -77,7 +77,7 @@ namespace NancyFxDemo.v1
 
         private object HelloName(string name)
         {
-            return new HelloWorldResponse {Message = "Hello " + name};
+            return Negotiate.WithModel(new HelloWorldResponse {Message = "Hello " + name});
         }
 
         private object HelloWorld()
