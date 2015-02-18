@@ -1,0 +1,8 @@
+D:\git\NancyFxDemo\NancyFxDemo\bin\NancyFxDemo.dll
+D:\git\NancyFxDemo\NancyFxDemo\bin\NancyFxDemo.pdb
+D:\git\NancyFxDemo\NancyFxDemo\bin\Nancy.dll
+D:\git\NancyFxDemo\NancyFxDemo\bin\Nancy.Hosting.Aspnet.dll
+D:\git\NancyFxDemo\NancyFxDemo\bin\Nancy.xml
+D:\git\NancyFxDemo\NancyFxDemo\bin\Nancy.Hosting.Aspnet.xml
+D:\git\NancyFxDemo\NancyFxDemo\obj\Debug\NancyFxDemo.dll
+D:\git\NancyFxDemo\NancyFxDemo\obj\Debug\NancyFxDemo.pdb
